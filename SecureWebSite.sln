@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureWebSite.Server", "SecureWebSite.Server\SecureWebSite.Server.csproj", "{2C82BB2C-713C-4BC0-8F1C-8D25A8E665C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecureWebSite.Server", "SecureWebSite.Server\SecureWebSite.Server.csproj", "{2C82BB2C-713C-4BC0-8F1C-8D25A8E665C5}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "securewebsite.client", "securewebsite.client\securewebsite.client.esproj", "{DBF25038-2F3B-4C3D-AABC-304595B55E45}"
 EndProject
