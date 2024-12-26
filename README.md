@@ -16,7 +16,7 @@ You will learn the following:
 - JavaScript.
 - C#
 
-Watch the full course on YouTube [here](https://youtu.be/DK7YAqd0tJA). Visit our YouTube Channel [Coding Aqyanoos](https://www.youtube.com/@coding-aqyanoos) for more useful and helpful courses. If you have any other questions please our website [https://aqyanoos.com](https://aqyanoos.com).
+Watch the full course on YouTube [here](https://youtu.be/DK7YAqd0tJA). Visit our YouTube Channel [Coding Aqyanoos](https://www.youtube.com/@CodingAqyanoos) for more useful and helpful courses. If you have any other questions please our website [https://aqyanoos.com](https://aqyanoos.com).
 
 We Have also created unique helpful Android apps that you can install and use for free. For more details visit our website.
 
